@@ -1,0 +1,26 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    margin: 200px;
+    border: 2px solid black;
+}
+h1{
+    border: 1px solid orangered;
+    margin-bottom: 20px;
+    color: rgb(4, 38, 138);
+}
+button {
+    margin-left: 30px;
+}
+
+#addBtn {
+    background-color: orangered;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+li {
+    color: rgb(4, 38, 138);
+}
